@@ -1,4 +1,10 @@
+
 erfefrerfefrwufoiw9frzkwg zgwijfzwtjwftzjgzkwrzgwhrfwjnfrhw[!\[Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gmf6Y7TE)
+===
+
+wrfwfrwfwfrwrr[!\[Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gmf6Y7TE)
+
+>>>>>>> ea1be09e5372da8fbf25204ed5e02110d38e4b90
 
 # Übung: Teamarbeit simulieren
 
